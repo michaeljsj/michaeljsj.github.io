@@ -13,7 +13,7 @@ title                    : "Michael Jacobs"
 title_separator          : "-"
 name                     : &name "Michael Jacobs"
 description              : &description "Michael Jacobs' academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://michaeljsj.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Michael Jacobs"
   pronouns         : # example: "she/her"  
-  bio              : "Political Science Post-doc"
-  location         : "Zurich"
+  bio              : "Political Science Post-doctorate"
+  location         : "Zürich"
   employer         : "ETH Zürich"
   uri              : # URL
   email            : "michael.jacobs@gess.ethz.ch" 
