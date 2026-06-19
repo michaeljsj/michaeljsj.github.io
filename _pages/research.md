@@ -4,11 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current projects
-
-
-
-## PhD Papers
+## Working Papers
 
 ### Do Unpopular Tactics Undermine the Persuasiveness of Protest?
 
@@ -36,7 +32,6 @@ Getting heard is a crucial first step for protesters to influence policy and pub
 
 ### Do Protests Shift Public Discourse in Activists’ Preferred Direction? Evidence from a Decade of UK Environmental Protests
 
-Under review at *American Journal of Political Science*  
 <details>
 <summary> Abstract </summary>
 
