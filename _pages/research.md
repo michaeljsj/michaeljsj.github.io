@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Research
 
 ### Do Unpopular Tactics Undermine the Persuasiveness of Protest?
 
