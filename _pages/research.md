@@ -4,7 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research
+## Ongoing Work
+
+### Improving the Quality of Public Discourse
+
+I am currently a post doc at ETH Zurich working on a SNSF funded project, which aims to improve the quality of public discourse (PIs: Dominik Hangartner, Gloria Gennaro, Fabrizio Gilardi, Karsten Donnay). As part of this, I am developing online field experiments to audit existing content moderation systems and test new ways of designing social media environments to promote constructive over toxic and polarising speech.
+
+
+## Papers
 
 ### Do Unpopular Tactics Undermine the Persuasiveness of Protest?
 
@@ -16,7 +23,6 @@ To attract attention, protesters sometimes resort to the use of disruptive or ev
 
 </details>
 
----
 
 ### Breaking into the Public Sphere: How Protest Tactics Shape Media Visibility
 
@@ -28,7 +34,6 @@ Getting heard is a crucial first step for protesters to influence policy and pub
 
 </details>
 
----
 
 ### Do Protests Shift Public Discourse in Activists’ Preferred Direction? Evidence from a Decade of UK Environmental Protests
 
