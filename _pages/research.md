@@ -8,10 +8,20 @@ author_profile: true
 
 ### Improving the Quality of Public Discourse
 
-I am currently a post doc at ETH Zurich working on a SNSF funded project, which aims to improve the quality of public discourse (PIs: Dominik Hangartner, Gloria Gennaro, Fabrizio Gilardi, Karsten Donnay). As part of this, I am developing online field experiments to audit existing content moderation systems and test new ways of designing social media environments to promote constructive over toxic and polarising speech.
+I am currently a post doc at ETH Zurich working on a SNSF funded project, which aims to improve the quality of public discourse (Principal Investigators: Dominik Hangartner, Gloria Gennaro, Fabrizio Gilardi, Karsten Donnay). As part of this, I am developing online field experiments to audit existing content moderation systems and test new ways of designing social media environments to promote constructive over toxic and polarising speech.
 
 
 ## Papers
+
+### Breaking into the Public Sphere: How Protest Tactics Shape Media Visibility
+
+Forthcoming at *British Journal of Political Science*  
+<details>
+<summary> Abstract </summary>
+
+Getting heard is a crucial first step for protesters to influence policy and public opinion. How can protest organisers boost their coverage in the media? This study provides new evidence on this question, based on a decade of UK environmental and economic protests from 2010 to 2020 (N=1,708). Relying on protest groups’ social media streams as trace data, I introduce a computer-assisted method for constructing a media-independent protest event dataset. Using a ‘within group’ design, I provide a sharper test of the causal effects of tactical choices compared to previous studies. I find that confrontational elements, such as disruption and arrests, are the strongest predictors, more than doubling the expected magnitude of coverage. I also find that right-leaning (ideologically unsympathetic) outlets are more responsive to confrontational elements than left-leaning (ideologically sympathetic) outlets, which suggests that disruptive tactics affect the composition as well as the size of a protest’s audience.
+
+</details>
 
 ### Do Unpopular Tactics Undermine the Persuasiveness of Protest?
 
@@ -24,19 +34,9 @@ To attract attention, protesters sometimes resort to the use of disruptive or ev
 </details>
 
 
-### Breaking into the Public Sphere: How Protest Tactics Shape Media Visibility
-
-R&R at *British Journal of Political Science*  
-<details>
-<summary> Abstract </summary>
-
-Getting heard is a crucial first step for protesters to influence policy and public opinion. How can protest organisers boost their coverage in the media? This study provides new evidence on this question, based on a decade of UK environmental and economic protests from 2010 to 2020 (N=1,708). Relying on protest groups’ social media streams as trace data, I introduce a computer-assisted method for constructing a media-independent protest event dataset. Using a ‘within group’ design, I provide a sharper test of the causal effects of tactical choices compared to previous studies. I find that confrontational elements, such as disruption and arrests, are the strongest predictors, more than doubling the expected magnitude of coverage. I also find that right-leaning (ideologically unsympathetic) outlets are more responsive to confrontational elements than left-leaning (ideologically sympathetic) outlets, which suggests that disruptive tactics affect the composition as well as the size of a protest’s audience.
-
-</details>
-
-
 ### Do Protests Shift Public Discourse in Activists’ Preferred Direction? Evidence from a Decade of UK Environmental Protests
 
+Under review at *American Journal of Political Science*  
 <details>
 <summary> Abstract </summary>
 
