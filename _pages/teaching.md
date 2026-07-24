@@ -27,5 +27,5 @@ author_profile: true
 
 ## King's College London
 
-### Principle of Economics (UG) (2021)
+### Principles of Economics (UG) (2021)
 *Tutorial instructor:* Course introduces micro- and macro-economic theory using the [CORE curriculum](https://www.core-econ.org/).
