@@ -6,9 +6,9 @@ author_profile: true
 
 ## Ongoing Work
 
-### Improving the Quality of Public Discourse
+### Improving the Quality of Online Public Discourse
 
-I am currently a post doc at ETH Zurich working on a [SNSF funded project](https://data.snf.ch/grants/grant/10001618), which aims to improve the quality of public discourse (Principal Investigators: Dominik Hangartner, Gloria Gennaro, Fabrizio Gilardi, Karsten Donnay). As part of this, I am developing online field experiments to audit existing content moderation systems and test new ways of designing social media environments to promote constructive over toxic and polarising speech.
+I am currently a post doc at ETH Zurich working on a [SNSF funded project](https://data.snf.ch/grants/grant/10001618), which aims to improve the quality of online public discourse (Principal Investigators: Dominik Hangartner, Gloria Gennaro, Fabrizio Gilardi, Karsten Donnay). As part of this, I am developing online field experiments to audit existing content moderation systems and test new ways of designing social media environments to promote constructive over toxic and polarising speech.
 
 
 ## Papers
