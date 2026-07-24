@@ -34,7 +34,7 @@ The dataset is provided in two formats:
 
 ### Variables
 
-**Variables common to both formats**
+*Variables common to both formats*
 
 - `Event_date` - day of event
 - `Event_group` - comma separated list of all groups participating in the event
@@ -52,14 +52,14 @@ The dataset is provided in two formats:
 - `action_freetext` - free text string based on the participating group's own description of action taken.
 - `location_freetext` - free text string based on the participating group's own description of location.
 
-**Variable only in BEEPED_event**
+*Variable only in BEEPED_event*
 
 - `Event_id` - unique event identifier
 - `Event_day` - day of the week of the event
 - `Event_prob_protest` - aggregated output of BERT-NLI model, reflecting the model's confidence that the cluster of tweets associated with the event does in fact describe an event taking place on the relevant day, organized by the relevant group(s).
 - `issue` - the broad issue area of the protest ('env' = environmental, 'pov' = economic)
 
-**Variables only in BEEPED_group_comb_day**
+*Variables only in BEEPED_group_comb_day*
 
 **NB:** If a variable has 'bm' in its name, this indicates that it is constructed using the 'best match' method for event-article linking. This ensures that each article is only assigned to a single event, the one with the highest probability. Article count variables without 'bm' are constructed from the raw output of the random forest model, and it is possible that an article is 'double-counted' (assigned to more than one event).
 
