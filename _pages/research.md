@@ -25,7 +25,7 @@ Getting heard is a crucial first step for protesters to influence policy and pub
 
 ### Do Unpopular Tactics Undermine the Persuasiveness of Protest?
 
-R&R at *American Review of Political Science*  
+Conditionally accepted at *American Review of Political Science*  
 <details>
 <summary> Abstract </summary>
 
