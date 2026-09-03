@@ -23,7 +23,7 @@ author_profile: true
   </iframe>
 </div>
 
-[Open slides in a new window](/files/lecture_8.html)
+<a href="/files/lecture_8.html" target="_blank">Open slides in a new window</a>
 
 </details>
 
@@ -36,7 +36,7 @@ author_profile: true
   </iframe>
 </div>
 
-[Open slides in a new window](/files/lecture_9.html)
+<a href="/files/lecture_9.html" target="_blank">Open slides in a new window</a>
 
 </details>
 
