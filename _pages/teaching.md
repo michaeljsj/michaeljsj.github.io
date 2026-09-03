@@ -14,6 +14,32 @@ author_profile: true
 ### Quantitative Text Analysis for Social Science (PG) (2025)
 *Guest lecturer and tutorial instructor:* Developed new content for and delivered two two-hour lectures on neural network language models and dense representations of texts.
 
+<details>
+<summary>See slides for Lecture 1: Representing Text as Data (III): Word Sequences</summary>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 0.5em;">
+  <iframe src="/files/lecture_8.html" allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid #ccc;">
+  </iframe>
+</div>
+
+[Open slides in a new window](/files/lecture_8.html)
+
+</details>
+
+<details>
+<summary>See slides for Lecture 2: Neural Networks, Transfer Learning and Transformer Models</summary>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 0.5em;">
+  <iframe src="/files/lecture_9.html" allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid #ccc;">
+  </iframe>
+</div>
+
+[Open slides in a new window](/files/lecture_9.html)
+
+</details>
+
 ### Causal Analysis (Q-step) (2022, 2024)
 *Tutorial instructor:* Course covering randomised experiments, natural experiments, matching, regression discontinuity, difference-in-differences, instrumental variables and synthetic control methods.
 
